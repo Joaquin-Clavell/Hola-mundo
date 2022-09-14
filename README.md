@@ -4,7 +4,7 @@ mi primer repositorio en Github
 
 i love :icecream:, :pizza:, :dog:
 
-i love :football:, :movies:, :cat:
+i love :football:, :TV:, :cat:
 
-i love :phone:, :computer games:, :coffe:
+i love :phone:, :video game:, :bed:
 
